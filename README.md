@@ -8,7 +8,7 @@ A simple C program to take user input into an array, use pointer arithmetic to t
 Compiled with gcc into an assembly file, stored for later
 
 # Assn3MinValArr.c
-Program takes numbers from the user, inputs them into an array, then selects and prints the smallest number in the array and its index
+Program takes numbers from the user, inputs them into an array, then selects and prints the smallest number in the array and its index using pointer arithmetic
 
 # Assn3MinValArr.s
 Compiled with gcc into an assembly file, stored for later
